@@ -50,7 +50,6 @@ Currently, I am expanding my knowledge of programming, artificial intelligence, 
 - Learning programming and software development.
 - Developing ideas for AI-powered learning environments.
 - Exploring research opportunities in Educational Technology.
-
 ## My Learning Journey
 
 I believe technology should make learning more meaningful, accessible, and engaging.
