@@ -1,4 +1,3 @@
-:::writing{variant="document" id="62841"}
 # Hi, I'm Diki Wahyudi 👋
 
 ### Educational Technology | AI in Education | Instructional Design
@@ -9,12 +8,12 @@ I am an Educational Technology graduate with a Master's degree in Educational Ad
 
 Currently, I am expanding my knowledge of programming, artificial intelligence, and digital innovation while building projects and documenting my learning journey.
 
-## 🎓 Education
+## Education
 
 - Bachelor's Degree in Educational Curriculum and Technology — Universitas Negeri Semarang
 - Master's Degree in Educational Administration — Universitas Muhammadiyah Surakarta
 
-## 🔬 Research Interests
+## Research Interests
 
 - Educational Technology
 - Artificial Intelligence in Education
@@ -24,7 +23,7 @@ Currently, I am expanding my knowledge of programming, artificial intelligence, 
 - Gamification in Education
 - Digital Learning Environments
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Educational Technology**
 - Digital Learning
@@ -45,14 +44,14 @@ Currently, I am expanding my knowledge of programming, artificial intelligence, 
 - Git & GitHub
 - AI Development
 
-## 🚀 Current Projects
+## Current Projects
 
 - Exploring AI applications in education.
 - Learning programming and software development.
 - Developing ideas for AI-powered learning environments.
 - Exploring research opportunities in Educational Technology.
 
-## 🌱 My Learning Journey
+## My Learning Journey
 
 I believe technology should make learning more meaningful, accessible, and engaging.
 
